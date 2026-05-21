@@ -1,35 +1,134 @@
-## Hi there 👋
-## I am Adegboye Babatunde
-## A Frontend Web Developer
-<!--
-**Babs-unique/Babs-unique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Babatunde Adegboye
 
-Here are some ideas to get you started:
+### MERN Stack Developer • CS Student • Backend Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on improving my skills<br>👯 I’m looking to collaborate on Visibuy a Startup Company<br>🌱 I’m currently learning Advanced Concept in React and Backend Web Development<br>💬 Ask me about Tech and LIfe<br>⚡ Fun fact I am a cool Guy
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/babatundeadegboye06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/babatunde-adegboye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@babatunde052008) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Babs-unique&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Babs-unique&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Babs-unique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Passionate about building scalable web applications, understanding systems from first principles, and connecting with developers around the world.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Babs-unique&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I’m a Computer Science student and MERN stack developer currently focused on becoming a well-rounded software engineer.
+
+Right now, I’m diving deep into:
+
+* Backend engineering from first principles
+* Database design with PostgreSQL
+* System design fundamentals
+* Frontend architecture and scalable codebases
+* APIs, authentication, and server-side development
+* Writing clean, maintainable, and production-ready code
+
+I enjoy learning how things work under the hood and building projects that improve my understanding of real-world software engineering.
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+## Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+* Backend Development from First Principles
+* PostgreSQL & Database Design
+* Authentication & Authorization
+* REST APIs
+* System Design
+* Frontend Architecture
+* Scalable React Applications
+* Software Engineering Best Practices
+* Data Structures & Algorithms
+
+---
+
+# 🔥 Current Focus
+
+* Building full-stack applications
+* Improving backend engineering skills
+* Understanding scalable architectures
+* Writing cleaner and more maintainable code
+* Contributing more consistently on GitHub
+* Connecting with developers and learning publicly
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Goals
+
+* Become a strong full-stack engineer
+* Master backend engineering fundamentals
+* Understand large-scale system architecture
+* Build impactful real-world projects
+* Collaborate and connect with developers globally
+* Contribute to open source
+
+---
+
+# 🌐 Let's Connect
+
+I’m always open to connecting with developers, collaborating on projects, and learning from others in tech.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://yourportfolio.com)
+
+---
+
+# 💡 Philosophy
+
+```js
+while (learning) {
+  build();
+  breakThings();
+  fixThings();
+  improve();
+}
+```
+
+---
+
+# ⭐ Thanks for Visiting
+
+Feel free to explore my repositories, connect with me, or collaborate on interesting projects 🚀
