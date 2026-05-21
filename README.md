@@ -84,7 +84,7 @@ I enjoy learning how things work under the hood and building projects that impro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babs-uniqueE&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babs-unique&theme=tokyonight" />
 </p>
 
 <p align="center">
